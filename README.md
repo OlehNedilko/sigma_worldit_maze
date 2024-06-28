@@ -1,1 +1,1 @@
-# sigma_worldit_maze
+# worldit_knight_maze
